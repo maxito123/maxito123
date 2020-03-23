@@ -1,0 +1,7 @@
+
+NAME: OGUAMANAM MAXIMUS
+EMAIL: belovedmaximus@gmail.com
+SLACK NAME: maxito123
+TRACK: BACKEND
+COURSES: PYTHON, C#, GO, PHP.
+
