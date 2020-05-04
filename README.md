@@ -1,2 +1,2 @@
 # maxito123
-GIT Task 1
+Containing some of my practicals for the python journey.
